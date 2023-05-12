@@ -85,7 +85,7 @@ article {
 }
 @media screen and (max-width: 700px) {
      nav {
-        width: 80px;
+        width: 200px;
     }
     .images {
         grid-template-columns: none;
