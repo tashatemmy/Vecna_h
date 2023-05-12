@@ -53,7 +53,6 @@ li {
     background-position: 20% 50%;
 }
 nav {
-    color: white;
     display: inline-block;
     justify-self: flex-end;
     font-size: larger;
@@ -85,7 +84,8 @@ article {
 }
 @media screen and (max-width: 700px) {
      nav {
-        width: 200px;
+         padding-right: 0;
+        
     }
     .images {
         grid-template-columns: none;
