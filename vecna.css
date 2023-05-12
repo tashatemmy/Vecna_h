@@ -83,6 +83,9 @@ article {
     
 }
 @media screen and (max-width: 700px) {
+     nav {
+        width: 50px;
+    }
     .images {
         grid-template-columns: none;
         justify-content: center;
