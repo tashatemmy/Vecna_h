@@ -84,6 +84,7 @@ article {
 }
 @media screen and (max-width: 700px) {
      nav {
+         display: block;
          padding-right: 0;
         
     }
