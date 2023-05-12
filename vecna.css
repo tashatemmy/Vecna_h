@@ -84,8 +84,8 @@ article {
 }
 @media screen and (max-width: 700px) {
      nav {
-         display: block;
-         padding-top: 50px;
+         flex-basis: 250px;
+         padding-top: 60px;
         
     }
     .images {
